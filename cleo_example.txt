@@ -1,0 +1,3 @@
+{$CLEO .cs}
+{$OPCODE 1234=0,AHK}
+1234: AHK
