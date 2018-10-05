@@ -4,7 +4,6 @@
 	MIT License
 
 	Copyright (c) 2018 Rinat_Namazov
-	Copyright © 2018 RINSOFT
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
